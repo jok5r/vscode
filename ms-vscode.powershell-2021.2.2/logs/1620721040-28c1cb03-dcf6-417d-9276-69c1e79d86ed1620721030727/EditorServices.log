@@ -1,0 +1,8 @@
+2021-05-11 09:17:23.071 +01:00 [INF] PowerShell runtime version: 7.1.3, edition: Core
+2021-05-11 09:17:23.732 +01:00 [INF] highlight handler loaded
+2021-05-11 09:17:24.340 +01:00 [ERR] Execution of the following command(s) completed with errors:
+
+    Import-Module C:\Users\markr\.vscode\extensions\ms-vscode.powershell-2021.2.2\modules\PowerShellEditorServices\Commands\PowerShellEditorServices.Commands.psd1
+
+
+2021-05-11 09:17:24.802 +01:00 [ERR] Could not resolve Script Analyzer settings path due to null or empty workspaceRootPath.
